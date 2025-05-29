@@ -1,0 +1,4 @@
+{
+    "wav_dir": "/home/hiddenrock/SERVER_DATASETS/DATASET_SER/Audios",
+    "label_path": "/home/hiddenrock/SERVER_DATASETS/DATASET_SER/Labels/labels_consensus.csv"
+}

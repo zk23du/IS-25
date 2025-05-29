@@ -1,0 +1,5 @@
+{
+    "wav_dir": "/home/hiddenrock/SERVER_DATASETS/DATASET_SER/Audios",
+    "label_path": "/home/hiddenrock/INTERSPEECH25/processed_labels.csv",
+    "transcript_dir": "/home/hiddenrock/SERVER_DATASETS/DATASET_SER/Transcripts"
+}
