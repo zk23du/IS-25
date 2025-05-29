@@ -1,0 +1,16 @@
+experiment_name: "Wavlm_Large"
+cuda_device: 1
+pretrained_model_name: "microsoft/wavlm-large"
+accumulation_steps: 4
+epochs: 2
+BATCH_SIZE: 32
+learning_rate: 1e-4
+head_dim: 1024
+pooling_type: "AttentiveStatisticsPooling"
+
+seed: 1312141425
+
+audio_path: "/DATASET_SER/Audios"
+label_path: "/processed_labels.csv"
+model_path: "/RESULTS/Wavlm"
+store_path: "/RESULTS/Wavlm"
